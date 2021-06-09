@@ -22,23 +22,7 @@
 	(d) In Storage Medium selection of local storage will store your data in local storage it will not be visible in user tab.
 	(e) Each and every field is required to fill otherwise it will not be submitted.
 	(f) A successfull submission will alert you with message.
-4. Node Modules Dependencies
-   {
-  "name": "datagrokr",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.13.0",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-phone-input-2": "^2.14.0",
-    "react-phone-number-input": "^3.1.23",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
-  },
+
    # Made in
 ![](https://img.shields.io/badge/Framework-Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
