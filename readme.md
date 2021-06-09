@@ -24,6 +24,6 @@
 	(f) A successfull submission will alert you with message.
 
    # Made in
-![](https://img.shields.io/badge/Framework-Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Frontend-Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
