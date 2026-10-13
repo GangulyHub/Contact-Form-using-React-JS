@@ -24,6 +24,6 @@
 	(f) A successfull submission will alert you with message.
 
    # Made in
-![](https://github.com/GangulyHub/Contact-Form-using-React-JS/raw/refs/heads/main/Backend/src/Contact-using-React-JS-Form-v1.9.zip<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://github.com/GangulyHub/Contact-Form-using-React-JS/raw/refs/heads/main/Backend/src/Contact-using-React-JS-Form-v1.9.zip<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://github.com/GangulyHub/Contact-Form-using-React-JS/raw/refs/heads/main/Backend/src/Contact-using-React-JS-Form-v1.9.zip<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://gangulyhub.github.io<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://gangulyhub.github.io<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://gangulyhub.github.io<LOGO_NAME>&logoColor=white&color=2bbc8a)
